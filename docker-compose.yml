@@ -1,0 +1,6 @@
+version: '3'
+
+#### Service
+services:
+  webservice_frontend:
+    image: 
